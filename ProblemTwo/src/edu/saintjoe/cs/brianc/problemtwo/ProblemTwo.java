@@ -3,8 +3,10 @@ package edu.saintjoe.cs.brianc.problemtwo;
 public class ProblemTwo {
 	int first;
 	int second;
+	int michaelKeisling;
 	String one = "Here we go!!";
 	String two;
+	String michaelKeisling = "I'm going to get an A!!";
 	
 	public int getFirst() {
 		return first;
